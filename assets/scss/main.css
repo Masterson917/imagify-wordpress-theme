@@ -1,0 +1,19 @@
+.acc-link {
+  width: 80px;
+  height: 24px;
+  /* Desktop/Body/Medium/Semibold */
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height, or 150% */
+  letter-spacing: 0.01em;
+  /* Black */
+  color: #343A49;
+  /* Inside auto layout */
+  flex: none;
+  order: 0;
+  flex-grow: 0; }
+
+/*# sourceMappingURL=main.css.map */
